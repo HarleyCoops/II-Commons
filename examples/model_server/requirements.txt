@@ -1,7 +1,7 @@
 python-dotenv
 uvicorn
 pydantic
-transformers==4.51.3
+transformers==5.0.0rc3
 xformers==v0.0.29.post2
 torch
 torchvision
